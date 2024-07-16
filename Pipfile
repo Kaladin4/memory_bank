@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+huggingface-hub = "*"
+tiktoken = "*"
+openai = "*"
+
+[dev-packages]
+langchain-anthropic = "*"
+python-dotenv = "*"
+
+[requires]
+python_version = "3.12"

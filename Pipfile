@@ -12,6 +12,7 @@ openai = "*"
 [dev-packages]
 langchain-anthropic = "*"
 python-dotenv = "*"
+setuptools = "*"
 
 [requires]
 python_version = "3.12"

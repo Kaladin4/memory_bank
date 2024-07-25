@@ -1,5 +1,5 @@
 from langchain_core.chat_history import BaseChatMessageHistory
-from typing import List, Sequence, Union, Any
+from typing import List, Sequence, Any
 import os
 import uuid
 from langchain_core.pydantic_v1 import BaseModel, Field
